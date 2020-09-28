@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
 
-body{background:rgb(240, 185, 228)}
+body{background:rgb(153, 151, 153)}
 #banner {
-    background:rgb(224, 64, 176);
+    background:rgb(247, 214, 237);
     height:150px;
     display: flex;
     justify-content:center;
     flex-direction: column;
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Peddana, serif';
+
 }
